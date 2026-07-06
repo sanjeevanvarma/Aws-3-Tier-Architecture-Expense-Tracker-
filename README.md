@@ -105,9 +105,9 @@ Amazon RDS (MySQL)
 
 ![ACM](screenshots/acm.png)
 
-- Subnets
+- Subnet
 
-![subnets](subnet.png)
+![subnet](subnet.png)
 
 ---
 
