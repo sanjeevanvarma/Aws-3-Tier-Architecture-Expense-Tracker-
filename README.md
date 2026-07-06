@@ -99,7 +99,7 @@ Amazon RDS (MySQL)
 
 - Target Groups
 
-![TG](screenshots/targetgroup.png)
+![TG](screenshots/target group.png)
 
 - ACM
 
