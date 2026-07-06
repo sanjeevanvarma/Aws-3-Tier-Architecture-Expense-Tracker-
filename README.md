@@ -75,7 +75,7 @@ Amazon RDS (MySQL)
 
 - Working Application
 
-![Application](screenshots/dashboard.png)
+![Application](screenshots/expense-Tracker.png)
 
 - Route 53
 
